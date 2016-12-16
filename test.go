@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"inproxy"
+	"github.com/OSPG/inproxy"
 )
 
 func main() {
